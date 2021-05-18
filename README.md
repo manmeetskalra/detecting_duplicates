@@ -1,2 +1,4 @@
-# detecting_duplicates
- Python code to detect (and remove) duplicate images from a folder
+# Detecting Duplicates
+ Python code to detect (and remove) duplicate images from a folder.
+ 
+ 
